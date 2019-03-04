@@ -19,6 +19,9 @@ Another option is to go run your code on Google Collaboratory which offers a Jpy
 
 ## @IITB
 Campus offers us a lot of place you can run your code at. There very likely will be a common computer lab available for students to use. I'm aware of two such facilities, Bits nd Bytes lab at the Computer Science Department and PC Lab in the Electrical Engineering department. The PCs there will moslty be general purpose computers without a GPU but just reach out to the SysAds of your department and there might be a High performance machine setup for use. Like there are Ravan and Rudra, two high end machines for EE students that I know of.
+
 If you are using any of the compute infra at campus, reach out the the administrators of the facility to find out how to go about using their setup. You can ask them if you want something installed, the SysAd are a friendly bunch. I'm one too :D
+
+Note: Make sure you use there resources judiciously and write an efficient code and keep following up on the runs. These are shared resources and should be used with other users in mind.
 
 # Software
