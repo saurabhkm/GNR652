@@ -22,9 +22,12 @@ The other option is to go run your code on Google Collaboratory which offers a J
 ### @IITB
 Campus offers us a lot of place you can run your code at. There very likely will be a common computer lab available for students to use. I'm aware of two such facilities, Bits nd Bytes lab at the Computer Science Department and PC Lab in the Electrical Engineering department. The PCs there will moslty be general purpose computers without a GPU but just reach out to the SysAds of your department and there might be a High performance machine setup for use. Like there are Ravan and Rudra, two high end machines for EE students that I know of.
 
-If you are using any of the compute infra at campus, reach out the the administrators of the facility to find out how to go about using their setup. You can ask them if you want something installed, the SysAd are a friendly bunch. I'm one too :D
+If you are using any of the compute infra at campus, reach out the the administrators of the facility to find out how to go about using their setup. You can ask them if you want something installed, we SysAd are a friendly bunch. :D
 
 Note: Make sure you use there resources judiciously and write an efficient code and keep following up on the runs. These are shared resources and should be used with other users in mind.
 
 ## Software
-Software is where you have the most choices! Operating system was an issue in the initial days but it is not so much now. The most popular of the deep leanring frameworks work everywhere, Linux, MacOS and Windows.
+Software is where you have the most choices! Operating system was an issue in the initial days but it is not so much now. The most popular of the deep leanring frameworks work everywhere, Linux, MacOS and Windows. And regarding the programming language of development, Python is where all the libraries reside. Picking up Python is quite easy and with the current trend, is a must to be able to use one of the popular frameworks.
+
+Listed below are few of the most popular deep learning frameworks out there. The choice here is again of how much control you want over your code and how much of your decisions you want to outsource to the framework. It is a huge task to compile an exhausting list of all te available frameworks so I'll just list down the one's that are widely used and easy to get up and running.
+
