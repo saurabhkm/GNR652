@@ -29,5 +29,9 @@ Note: Make sure you use there resources judiciously and write an efficient code 
 ## Software
 Software is where you have the most choices! Operating system was an issue in the initial days but it is not so much now. The most popular of the deep leanring frameworks work everywhere, Linux, MacOS and Windows. And regarding the programming language of development, Python is where all the libraries reside. Picking up Python is quite easy and with the current trend, is a must to be able to use one of the popular frameworks.
 
-Listed below are few of the most popular deep learning frameworks out there. The choice here is again of how much control you want over your code and how much of your decisions you want to outsource to the framework. It is a huge task to compile an exhausting list of all te available frameworks so I'll just list down the one's that are widely used and easy to get up and running.
+Listed below are few of the most popular deep learning frameworks out there. The choice here is again of how much control you want over your code and how much of your decisions you want to outsource to the framework. It is a huge task to compile an exhausting list of all te available frameworks so I'll just list down the one's that are widely used that I've worked with and inorder of difficulty as per me.
 
+- Keras
+- PyTorch
+- TensorFlow
+- Caffe
