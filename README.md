@@ -3,9 +3,9 @@
 Welcome to this follow up page about the talk on Deep learning frameworks at GNR 652 course.
 
 To begin, let us narrow down from a high level of computer usage. There are three broad aspects one has to think about namely.
-- Scale
-- Hardware
-- Software
+- [Scale](https://github.com/saurabhkm/GNR652#scale)
+- [Hardware](https://github.com/saurabhkm/GNR652#hardware)
+- [Software](https://github.com/saurabhkm/GNR652#software)
 
 ## Scale
 One of the first things is the scale of the problem at hand. This basically boils down to the size of the network you plan to build and the size of the dataset it is going to crunch. If you are training a small few layer network and using an MINST sized dataset, you will be fine with using a local setup without a GPU.
@@ -31,10 +31,10 @@ Software is where you have the most choices! Operating system was an issue in th
 
 Listed below are few of the most popular deep learning frameworks out there. The choice here is again of how much control you want over your code and how much of your decisions you want to outsource to the framework. It is a huge task to compile an exhausting list of all te available frameworks so I'll just list down the one's that are widely used that I've worked with and inorder of steepness of the learning curve as per me. Most of the writeup is as per my knowledge and understanding but there are references at the end of each section you can go up to for diving in deeper.
 
-- [scikit-learn](https://github.com/saurabhkm/GNR652/tree/master/scikit-learn)
+- [Scikit-learn](https://github.com/saurabhkm/GNR652/tree/master/scikit-learn)
 - [Keras](https://github.com/saurabhkm/GNR652/tree/master/Keras)
 - [PyTorch](https://github.com/saurabhkm/GNR652/tree/master/PyTorch)
 - [Caffe](https://github.com/saurabhkm/GNR652/tree/master/Caffe)
 - [TensorFlow](https://github.com/saurabhkm/GNR652/tree/master/TensorFlow)
 
-Note: All these frameworks are rapidly developed and fast evolving. Please refer tot he documentation of each of them incase you are seeing this at a later date.
+Note: All these frameworks are rapidly developed and fast evolving. Please refer to their respective documentation incase you are seeing this at a later date.
