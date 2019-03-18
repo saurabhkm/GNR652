@@ -29,9 +29,12 @@ Note: Make sure you use there resources judiciously and write an efficient code 
 ## Software
 Software is where you have the most choices! Operating system was an issue in the initial days but it is not so much now. The most popular of the deep leanring frameworks work everywhere, Linux, MacOS and Windows. And regarding the programming language of development, Python is where all the libraries reside. Picking up Python is quite easy and with the current trend, is a must to be able to use one of the popular frameworks.
 
-Listed below are few of the most popular deep learning frameworks out there. The choice here is again of how much control you want over your code and how much of your decisions you want to outsource to the framework. It is a huge task to compile an exhausting list of all te available frameworks so I'll just list down the one's that are widely used that I've worked with and inorder of difficulty as per me.
+Listed below are few of the most popular deep learning frameworks out there. The choice here is again of how much control you want over your code and how much of your decisions you want to outsource to the framework. It is a huge task to compile an exhausting list of all te available frameworks so I'll just list down the one's that are widely used that I've worked with and inorder of steepness of the learning curve as per me. Most of the writeup is as per my knowledge and understanding but there are references at the end of each section you can go up to for diving in deeper.
 
-- Keras
-- PyTorch
-- TensorFlow
-- Caffe
+- [scikit-learn](https://github.com/saurabhkm/GNR652/tree/master/scikit-learn)
+- [Keras](https://github.com/saurabhkm/GNR652/tree/master/Keras)
+- [PyTorch](https://github.com/saurabhkm/GNR652/tree/master/PyTorch)
+- [Caffe](https://github.com/saurabhkm/GNR652/tree/master/Caffe)
+- [TensorFlow](https://github.com/saurabhkm/GNR652/tree/master/TensorFlow)
+
+Note: All these frameworks are rapidly developed and fast evolving. Please refer tot he documentation of each of them incase you are seeing this at a later date.
