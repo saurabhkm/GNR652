@@ -1,8 +1,9 @@
 # GNR 652: Deep Learning Frameworks
 
-Welcome to this follow up page about the talk on Deep learning frameworks at GNR 652 course.
+Welcome to this follow up page about the session on Deep learning frameworks at GNR 652 course.
 
 To begin, let us narrow down from a high level of computer usage. There are three broad aspects one has to think about namely.
+
 - [Scale](https://github.com/saurabhkm/GNR652#scale)
 - [Hardware](https://github.com/saurabhkm/GNR652#hardware)
 - [Software](https://github.com/saurabhkm/GNR652#software)
@@ -37,4 +38,4 @@ Listed below are few of the most popular deep learning frameworks out there. The
 - [Caffe](https://github.com/saurabhkm/GNR652/tree/master/Caffe)
 - [TensorFlow](https://github.com/saurabhkm/GNR652/tree/master/TensorFlow)
 
-Note: All these frameworks are rapidly developed and fast evolving. Please refer to their respective documentation incase you are seeing this at a later date.
+**Note**: All these frameworks are rapidly developed and fast evolving. Please refer to their respective documentation incase you are seeing this at a later date.
