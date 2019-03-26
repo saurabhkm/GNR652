@@ -14,8 +14,9 @@ The datalaoder takes in a dataset object and provides functionality of preproces
 
 ### Model
 A model in PyTorch is defined with parent class as the nn.Module. It needs to have two methods defined:
-- init
-- forward
+- init: Initialize the network
+- forward: Define the dataflow through the network
+
 In essence we initialize the layer that will make up our network here with appropriate parameters. The forward methods is where we define how the given input is to be handelled by the initialized network and specifically how it passes through the layers in the init method. There are various layers that are available for use to build our model or define custom ones.
 
 ### Training
