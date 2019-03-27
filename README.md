@@ -1,6 +1,6 @@
-# GNR 652: Deep Learning Frameworks
+# GNR 652: Machine Learning and Deep Learning Frameworks
 
-Welcome to this follow up page about the session on Deep learning frameworks at GNR 652 course.
+Welcome to this follow up page about the session on MAchine learning and Deep learning frameworks at GNR 652 course.
 
 To begin, let us narrow down from a high level of computer usage. There are three broad aspects one has to think about namely.
 

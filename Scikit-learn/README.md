@@ -5,24 +5,6 @@ Scikit-learn also known as sklearn is one of the oldest of machine learning pyth
 
 We can build neural network in scikit-learn if we wish to but it is not the most optimized framework for building deep networks in particular. Since the mainstream deep learning specific frameworks have got traction, developers build have shifted to them instead of sklearn. Nevertheless it is certainly good to know about it as it is a swissknife for any kind ML development. Let us have a look at how to write our own neural network in sklearn.
 
-## Fundae
- #### Data loading and preparation
-
-
- #### Train Validation splitting
-
-
- #### Designing a neural network
-
-
- #### Training the network
-
-
- #### Testing with the trained network
-
-
- #### Performance evaluation
-
-
 
 ## ConvNet MNIST Classifier
+It is not possible to build a conv-net in scikit as the developers consider it out of scope. Although here is an example of MNIST classifier built using multilayer perceptron available in sklearn: https://github.com/dydokamil/mnist-classifier-sklearn
