@@ -32,7 +32,7 @@ The software is where you have the most choices! The operating system was an iss
 
 Listed below are few of the most popular deep learning frameworks out there. The choice here is again of how much control you want over your code and how much of your decisions you want to outsource to the framework. It is a colossal task to compile an exhausting list of all the available frameworks, so I'll list down the ones that are widely used, and I've worked with and in order of the steepness of the learning curve for me. Most of the writeup is as per my understanding, and the content here is just the tip of the iceberg, but there are references at the end of each section you can go up to for diving in deeper.
 
-- [Scikit-learn](https://github.com/saurabhkm/GNR652/tree/master/scikit-learn)
+- [Scikit-learn](https://github.com/saurabhkm/GNR652/tree/master/Scikit-learn)
 - [Keras](https://github.com/saurabhkm/GNR652/tree/master/Keras)
 - [PyTorch](https://github.com/saurabhkm/GNR652/tree/master/PyTorch)
 - [Caffe](https://github.com/saurabhkm/GNR652/tree/master/Caffe)
